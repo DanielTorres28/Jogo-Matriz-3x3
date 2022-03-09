@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Programas Etec\PA\Trabalhos Entregar\JogoMatriz3x3\bin\Debug\JogoMatriz3x3.exe.config
+C:\Users\user\Desktop\Programas Etec\PA\Trabalhos Entregar\JogoMatriz3x3\bin\Debug\JogoMatriz3x3.exe
+C:\Users\user\Desktop\Programas Etec\PA\Trabalhos Entregar\JogoMatriz3x3\bin\Debug\JogoMatriz3x3.pdb
+C:\Users\user\Desktop\Programas Etec\PA\Trabalhos Entregar\JogoMatriz3x3\obj\Debug\JogoMatriz3x3.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Programas Etec\PA\Trabalhos Entregar\JogoMatriz3x3\obj\Debug\JogoMatriz3x3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programas Etec\PA\Trabalhos Entregar\JogoMatriz3x3\obj\Debug\JogoMatriz3x3.exe
+C:\Users\user\Desktop\Programas Etec\PA\Trabalhos Entregar\JogoMatriz3x3\obj\Debug\JogoMatriz3x3.pdb
